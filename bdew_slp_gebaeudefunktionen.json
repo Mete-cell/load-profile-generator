@@ -1,0 +1,68 @@
+{
+  "H0_Profile": {
+    "1000": "Wohngebäude allgemein",
+    "1010": "Wohnhaus"
+  },
+  "50prozent_H0_50prozent_G0_Profile": {
+    "1120": "Wohngebäude mit Handel",
+    "1130": "Wohngebäude mit Gewerbe"
+  },
+  "Gewerbe_Profile": {
+    "G0": {
+      "2000": "Gebäude für Wirtschaft oder Gewerbe",
+      "2112": "Betriebsgebäude"
+    },
+    "G1": {
+      "2020": "Bürogebäude",
+      "3010": "Verwaltungsgebäude",
+      "2120": "Werkstatt",
+      "2110": "Produktionsgebäude",
+      "3080": "Friedhofsgebäude"
+    },
+    "G2": {
+      "1310": "Gebäude für Freizeitgestaltung",
+      "3221": "Hallenbad",
+      "3220": "Badegebäude",
+      "3036": "Veranstaltungsgebäude"
+    },
+    "G3": {
+      "2071": "Hotel/Motel/Pension",
+      "2070": "Gebäude für Beherbergung",
+      "2140": "Gebäude für Vorratshaltung",
+      "2512": {
+      "code": "2512",
+      "description": "Pumpstation",
+      "yearly_consumption_kwh": 45000
+    }
+    },
+    "G4": {
+      "2050": "Geschäftsgebäude",
+      "2010": "Handel und Dienstleistungen"
+    },
+    "G5": {
+      "DEBBAL520000wboz": "Bäckerei"
+    },
+    "G6": {
+      "2080": "Gebäude für Bewirtung",
+      "2081": "Gaststätte/Restaurant"
+    }
+  },
+  "Landwirtschaft_Profile": {
+    "L0": {
+      "2720": "Land- und forstwirtschaftliches Betriebsgebäude",
+      "2724": "Stall",
+      "2740": "Treibhaus/Gewächshaus"
+    }
+  },
+  "Y1_Lastprofil": {
+    "yearly_consumption_per_sqm": 5,
+    "codes": {
+      "2463": "Garage",
+      "2723": "Schuppen",
+      "2460": "Gebäude zum Parken",
+      "2464": "Fahrzeughalle",
+      "1313": "Gartenhaus",
+      "2143": "Lagerhalle/Lagerschuppen"
+    }
+  }
+}
